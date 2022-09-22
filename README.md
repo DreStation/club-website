@@ -2,6 +2,8 @@
 
 Built using Hugo static-site framework and Blowfish theme.
 
+![image](https://user-images.githubusercontent.com/93152029/191831646-f74d4d45-fc7b-4697-84da-f3bbca530939.png)
+
 ## Useful Links
 
 - [Hugo Quick Start Guide](https://gohugo.io/getting-started/quick-start/)
