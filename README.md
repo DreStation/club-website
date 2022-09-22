@@ -3,6 +3,8 @@
 Built using Hugo static-site framework and Blowfish theme.
 
 ![image](https://user-images.githubusercontent.com/93152029/191831646-f74d4d45-fc7b-4697-84da-f3bbca530939.png)
+![image](https://user-images.githubusercontent.com/93152029/191832505-89d03abd-1252-4ff2-b25f-672f9a9e0a61.png)
+
 
 ## Useful Links
 
