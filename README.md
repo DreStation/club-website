@@ -26,3 +26,12 @@ Built using Hugo static-site framework and Blowfish theme.
 1. Install latest version of [Go](https://go.dev/dl/) and [Hugo](https://gohugo.io/getting-started/installing/)
 2. Clone this repository
 3. Run `hugo serve` in terminal
+
+## How to make a new webpage
+
+Content is written in Markdown files. There are tons of guides out there for Markdown formatting.
+Assuming you want to add showcase a new Coding Club project:
+
+1. Create 'project-name.md' in `content/projects`
+2. Add metadata at the top of the file as shown in 'sample.md'
+3. If your local server is running, saving should automatically update the site. You'll find your new webpage inside Projects.
