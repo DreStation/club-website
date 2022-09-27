@@ -1,10 +1,8 @@
-# Club Website for Georgian Code Club
+# Website for Georgian Code Club
 
 Built using Hugo static-site framework and Blowfish theme.
 
-![image](https://user-images.githubusercontent.com/93152029/191831646-f74d4d45-fc7b-4697-84da-f3bbca530939.png)
-![image](https://user-images.githubusercontent.com/93152029/191832505-89d03abd-1252-4ff2-b25f-672f9a9e0a61.png)
-
+![image](https://user-images.githubusercontent.com/93152029/192423150-d82963ba-410c-4026-9c9c-9b805c8565bc.png)
 
 ## Useful Links
 
@@ -21,7 +19,7 @@ Built using Hugo static-site framework and Blowfish theme.
 
 1. Install latest version of [Go](https://go.dev/dl/) and [Hugo](https://gohugo.io/getting-started/installing/)
 2. Clone this repository
-3. Run `hugo serve` in terminal
+3. Run `hugo serve` in terminal and see your work on http://localhost:1313/
 
 ## How to make a new webpage
 
