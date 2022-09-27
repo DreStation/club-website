@@ -2,7 +2,6 @@
 title: "Markdown Guide"
 date: 2022-09-22
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-projects: ["project"]
 ---
 
 This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.

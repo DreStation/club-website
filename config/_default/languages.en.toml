@@ -7,7 +7,7 @@ rtl = false
 
 title = "Georgian Code Club"
 logo = "img/logo.png"
-description = "Welcome to the Georgian Code Club"
+description = "Georgian Code Club - Georgian College"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Georgian Code Club"
   image = "img/logo.png"
-  headline = "Bottom text"
+  headline = "Georgian College, Canada"
   bio = "Insert bio here"
   links = [
   #   { email = "mailto:hello@your_domain.com" },

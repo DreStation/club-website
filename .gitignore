@@ -17,7 +17,5 @@ node_modules
 .DS_Store
 .hugo_build.lock
 
-
-
 # Cache files (at least I'm pretty sure that's what this directory is for)
 resources

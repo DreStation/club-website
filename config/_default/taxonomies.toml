@@ -1,2 +1,3 @@
-[taxonomies]
-    projects = 'projects'
+# Define tags/categories
+# More info here https://gohugo.io/content-management/taxonomies/
+
