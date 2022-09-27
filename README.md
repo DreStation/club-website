@@ -15,10 +15,6 @@ Built using Hugo static-site framework and Blowfish theme.
 ## To Do
 
 - Error 404 page
-- An index page for the Projects section (additional text where it shows the year in projects)
-- Populate the site with content
-    - Homepage with info about us
-    - A cool tag line/slogan for the header
 - Host the live site on GitHub Pages
 
 ## How to run it yourself
